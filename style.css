@@ -1,0 +1,7 @@
+body {
+    background-color: #272727;
+    color: white;
+    font-family: "Martian Mono", monospace;
+    margin: 0px;
+    /* забираємо стандартні відступи в тега body */
+}
